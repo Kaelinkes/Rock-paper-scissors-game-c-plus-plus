@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors (C++ Console Game)
 
-A simple **Rock, Paper, Scissors** console game written in **C++**, where a human player competes against the computer using randomly generated moves.
+A simple **Rock, Paper, Scissors** console game written in **C++**, where a human player competes against the computer using randomly generated moves. THis shows my learning of functions in C++.
 
 ---
 
