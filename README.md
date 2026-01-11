@@ -11,6 +11,7 @@ A simple **Rock, Paper, Scissors** console game written in **C++**, where a huma
 - User-friendly console prompts
 - Replay option after each round
 - Clear win, lose, or draw outcomes
+- Uses functions/methods to work.
 
 ---
 
